@@ -160,7 +160,6 @@ A window will appear asking you to choose the source type:
 -   Matching hashes confirm the forensic image's integrity.
 
 -   <img width="1419" height="741" alt="Screenshot 2025-08-31 165800" src="https://github.com/user-attachments/assets/15bb6d54-4078-426b-8921-1a5324570be1" />
--   <img width="1053" height="250" alt="Screenshot 2025-08-31 174812" src="https://github.com/user-attachments/assets/a71c56b4-384c-478a-8417-0d8517c2a0c7" />
 
 
 
